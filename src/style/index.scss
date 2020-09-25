@@ -14,3 +14,16 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body {
+  background-color: black;
+}
+.container-fluid {
+  margin: auto;
+  width: 600px;
+  background-color: silver;
+  padding: 20px;
+  border-radius: 20px;
+}
+#myH1 {
+  color: rgb(15, 135, 139);
+}
